@@ -1,0 +1,53 @@
+{
+  "build": "boschca_h4c7d964_0",
+  "build_number": 0,
+  "channel": "https://rb-artifactory.bosch.com/artifactory/conda-virtual/bosch-ca-injected/noarch",
+  "constrains": [],
+  "depends": [
+    "__win"
+  ],
+  "extracted_package_dir": "C:\\ProgramData\\conda-pkgs\\ca-certificates-2026.1.4-boschca_h4c7d964_0",
+  "features": "bosch-ca",
+  "files": [
+    "Library/ssl/cacert.pem",
+    "Library/ssl/cert.pem"
+  ],
+  "fn": "ca-certificates-2026.1.4-boschca_h4c7d964_0.conda",
+  "license": "ISC",
+  "link": {
+    "source": "C:\\ProgramData\\conda-pkgs\\ca-certificates-2026.1.4-boschca_h4c7d964_0",
+    "type": 1
+  },
+  "md5": "3c7c89e2d587a22944bc8175f1b55910",
+  "name": "ca-certificates",
+  "noarch": "generic",
+  "package_tarball_full_path": "C:\\ProgramData\\conda-pkgs\\ca-certificates-2026.1.4-boschca_h4c7d964_0.conda",
+  "package_type": "noarch_generic",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/ssl/cacert.pem",
+        "path_type": "hardlink",
+        "sha256": "11661e137823921e570f0a39d723c62f220926b502be83c2280f9618a1946ce3",
+        "sha256_in_prefix": "11661e137823921e570f0a39d723c62f220926b502be83c2280f9618a1946ce3",
+        "size_in_bytes": 279831
+      },
+      {
+        "_path": "Library/ssl/cert.pem",
+        "path_type": "hardlink",
+        "sha256": "11661e137823921e570f0a39d723c62f220926b502be83c2280f9618a1946ce3",
+        "sha256_in_prefix": "11661e137823921e570f0a39d723c62f220926b502be83c2280f9618a1946ce3",
+        "size_in_bytes": 279831
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "44dc404c2c8a6321fcb803bc47e958a18bcb49d470514a19ae956798b78d4f7c",
+  "size": 152225,
+  "subdir": "noarch",
+  "timestamp": 1767500904211,
+  "track_features": "",
+  "url": "https://anu9rng:AP6eY5xuhS1MqAdy5jedftw3ndQq7MHjXL8Rpb@rb-artifactory.bosch.com/artifactory/conda-virtual/bosch-ca-injected/noarch/ca-certificates-2026.1.4-boschca_h4c7d964_0.conda",
+  "version": "2026.1.4"
+}
